@@ -1,0 +1,78 @@
+{
+  "_hinweis": "Paraphrasierte Kernaussagen, inspiriert von Dr. Michael Gregers 'How Not to Age' (2023) und oeffentlich zugaenglichen Zusammenfassungen/NutritionFacts.org. Keine woertlichen Buchzitate. Dient als wissenschaftliches Grundgeruest fuer Education-Posts -- Zahlen/Studien bei Bedarf gegenpruefen, bevor sie als harte Fakten kommuniziert werden.",
+  "quelle": "Michael Greger, M.D. -- How Not to Age: The Scientific Approach to Getting Healthier as You Get Older (2023)",
+  "facts": [
+    {
+      "id": "zellgesundheit-1",
+      "kategorie": "Zellgesundheit",
+      "tags": ["Allgemein", "Longevity"],
+      "fact": "Greger beschreibt 11 biologische 'Aging Pathways' (u.a. AMPK, Autophagie, Zellalterung/Seneszenz, Glykation, mTOR, Entzuendung, Oxidation, Sirtuine, Telomere), die alle durch Ernaehrung und Lebensstil messbar beeinflussbar sind -- Altern ist damit kein rein passiver, sondern teils steuerbarer Prozess."
+    },
+    {
+      "id": "zellgesundheit-2",
+      "kategorie": "Zellgesundheit",
+      "tags": ["Allgemein"],
+      "fact": "Sogenannte 'Zombie-Zellen' (seneszente Zellen) haeufen sich mit dem Alter an und schuetten dauerhaft entzuendliche Botenstoffe aus -- das treibt laut Greger unter anderem Arthrose, Gelenkverschleiss und andere altersbedingte Erkrankungen mit an."
+    },
+    {
+      "id": "zellgesundheit-3",
+      "kategorie": "Zellgesundheit",
+      "tags": ["Ernaehrung"],
+      "fact": "Quercetinreiche Lebensmittel wie Zwiebeln, Aepfel und Gruenkohl werden mit einer moeglichen Reduktion seneszenter Zellen in Verbindung gebracht -- ein Ansatzpunkt, um dem zellulaeren 'Verkalken' entgegenzuwirken."
+    },
+    {
+      "id": "autophagie-1",
+      "kategorie": "Autophagie",
+      "tags": ["Allgemein", "Ernaehrung"],
+      "fact": "Autophagie ist der zelluläre Reinigungsprozess, bei dem beschaedigte Bestandteile abgebaut und recycelt werden. Spermidin -- enthalten in Tempeh, Pilzen, Weizenkeimen, Huelsenfruchten, Erbsen und Mangos -- gilt als natuerlicher Trigger dafuer."
+    },
+    {
+      "id": "autophagie-2",
+      "kategorie": "Autophagie",
+      "tags": ["Handstand", "Human Flag", "Seilspringen", "Training"],
+      "fact": "Koerperliche Aktivitaet aktiviert AMPK, einen zentralen Schalter, der die Zelle vom Energie-Speichern aufs Energie-Verbrennen und 'Aufraeumen' umstellt -- Training ist damit nicht nur Kraftaufbau, sondern auch ein Signal an die Zellen, sich zu erneuern."
+    },
+    {
+      "id": "autophagie-3",
+      "kategorie": "Autophagie",
+      "tags": ["Ernaehrung"],
+      "fact": "Laengere Esspausen (z.B. zeitlich begrenztes Essfenster) und moderate statt exzessive Proteinzufuhr koennen laut den im Buch zitierten Studien den mTOR-Signalweg dosieren, der im Uebermass Zellwachstum foerdert, aber Autophagie bremst."
+    },
+    {
+      "id": "gelenke_sehnen-1",
+      "kategorie": "Gelenke & Sehnen",
+      "tags": ["Handstand", "Gelenke"],
+      "fact": "Curcumin (aus Kurkuma) zeigt in den von Greger zitierten Studien bei Kniearthrose Wirkungen, die mit klassischen Schmerz-/Entzuendungsmitteln vergleichbar sein koennen -- ein pflanzlicher Ansatzpunkt bei Gelenkbelastung."
+    },
+    {
+      "id": "gelenke_sehnen-2",
+      "kategorie": "Gelenke & Sehnen",
+      "tags": ["Handstand", "Gelenke"],
+      "fact": "Glucosamin ist ein koerpereigener Knorpelbaustein, dessen Produktion mit dem Alter nachlaesst. Ergaenzend zugefuehrt wird es mit einer moeglichen Reduktion von Gelenkschmerzen und Steifheit assoziiert -- die Evidenz ist gemischt, aber vielzitiert."
+    },
+    {
+      "id": "gelenke_sehnen-3",
+      "kategorie": "Gelenke & Sehnen",
+      "tags": ["Seilspringen", "Gelenke"],
+      "fact": "Kollagen-Praeparate zeigen laut Gregers Auswertung der Studienlage bei Knie-/Huftarthrose in Summe keinen klar belegten Vorteil gegenueber Placebo -- ein Grund, bei Gelenk-Content lieber auf Belastungssteuerung und Ernaehrung als auf teure Supplements zu setzen."
+    },
+    {
+      "id": "ernaehrung-1",
+      "kategorie": "Ernaehrung",
+      "tags": ["Allgemein", "Ernaehrung"],
+      "fact": "Die mit langsamerem biologischem Altern assoziierten Lebensmittelgruppen sind laut Greger konsistent: Blattgruen, Beeren, Huelsenfruechte, Nuesse, Samen, Vollkorn, gruener Tee und Kaffee."
+    },
+    {
+      "id": "ernaehrung-2",
+      "kategorie": "Ernaehrung",
+      "tags": ["Ernaehrung"],
+      "fact": "Regelmaessige, staerker vegetabile Ernaehrung wird im Buch mit einer guenstigeren IGF-1- und mTOR-Balance in Verbindung gebracht -- beides Signalwege, die im Uebermass mit beschleunigter Zellalterung assoziiert sind."
+    },
+    {
+      "id": "ernaehrung-3",
+      "kategorie": "Ernaehrung",
+      "tags": ["Ernaehrung"],
+      "fact": "Stark erhitzte/frittierte Lebensmittel (z.B. Pommes, Chips) foerdern die Bildung von AGEs (Advanced Glycation End-products) -- diese lagern sich in Gewebe und Gelenken ab und werden mit beschleunigter Gewebealterung assoziiert."
+    }
+  ]
+}

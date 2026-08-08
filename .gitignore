@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+local.db
+yt_client_secret.json
+yt_token.json
+static/videos/*.mp4

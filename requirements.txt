@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-telegram-bot[socks,job-queue]==21.6
+anthropic==0.40.0
+pydantic==2.13.4
+sqlalchemy==2.0.35
+aiosqlite==0.20.0
+asyncpg==0.29.0
+python-dotenv==1.0.1
+requests==2.32.3
+google-api-python-client==2.147.0
+google-auth-oauthlib==1.2.1
